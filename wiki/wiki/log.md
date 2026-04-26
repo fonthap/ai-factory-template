@@ -11,5 +11,5 @@ updated: {{DATE}}
 Reverse-chronological activity timeline. Agents append here after every wiki change.
 
 ## [{{DATE}}] setup | Wiki initialized
-- Created project wiki from kiro-factory-template
+- Created project wiki from ai-factory-template
 - Sections: docs, architecture, runbooks, sprints, projects

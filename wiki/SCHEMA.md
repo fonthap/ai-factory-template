@@ -9,7 +9,7 @@
 raw/        → Source documents (immutable, user-owned)
 wiki/       → LLM-maintained pages (LLM-owned)
 templates/  → Page templates
-KIRO.md     → This file (schema)
+SCHEMA.md   → This file (schema)
 ```
 
 ## Directory Map

@@ -16,7 +16,7 @@ agents/                     # Agent prompts (plain markdown — copy into any to
 └── security.md             # Senior Security Engineer
 
 wiki/                       # Project wiki (knowledge base)
-├── KIRO.md                 # Schema — how agents use the wiki
+├── SCHEMA.md               # Schema — how agents use the wiki
 ├── templates/              # Page templates (ADR, sprint, runbook, incident, etc.)
 └── wiki/                   # Agent-maintained pages
     ├── project.md          # Tech stack, conventions, environments
@@ -64,7 +64,7 @@ Add to `.cursor/rules`:
 ```
 Read agents/po.md for your role.
 Read wiki/wiki/project.md for project context.
-Read wiki/KIRO.md for wiki rules.
+Read wiki/SCHEMA.md for wiki rules.
 ```
 
 Or paste individual agent prompts into Cursor's system prompt settings.
@@ -133,7 +133,7 @@ cd ai-factory-template
 Create a new `agents/<role>.md` with the same structure (Expertise, Rules, Output Structure, Self-Check). Add it to the team table in `agents/po.md`.
 
 ### Change the wiki structure
-Edit `wiki/KIRO.md` to change sections, naming conventions, or workflows.
+Edit `wiki/SCHEMA.md` to change sections, naming conventions, or workflows.
 
 ### Add templates
 Drop new templates in `wiki/templates/` — agents will use them when creating wiki pages.

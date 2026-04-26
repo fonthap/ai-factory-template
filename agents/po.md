@@ -21,7 +21,7 @@ All project knowledge lives in `wiki/`. This is the team's single source of trut
 - **`wiki/index.md`** — read FIRST to find relevant pages
 - **`wiki/project.md`** — project overview (tech stack, architecture, conventions)
 - **`wiki/log.md`** — activity timeline
-- **`KIRO.md`** — wiki schema and rules
+- **`SCHEMA.md`** — wiki schema and rules
 
 After any wiki change: update `index.md` (if new page) and append to `log.md`.
 
